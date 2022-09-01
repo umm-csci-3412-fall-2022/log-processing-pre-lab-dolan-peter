@@ -146,7 +146,7 @@ To give you an idea of what `wrap_contents.sh` will be used for in the lab, ther
 - `bread_header.html`
 - `bread_footer.html`.
 
-If you wrote your `wrap_contents.sh` script correctly, this call
+If you wrote your `wrap_contents.sh` script correctly, this call (assuming you have used `cd` to change into the `char_example` directory)
 
 ```bash
 ../wrap_contents.sh meats.txt bread my_chart.html
